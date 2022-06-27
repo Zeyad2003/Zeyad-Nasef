@@ -17,7 +17,7 @@ I like parctic programming, algorithms, and problem solving to enhance my softwa
 
 <h1 align="center">Hi, I'm Zeyad Nasef👋</h1>
 <br>
-<h2><p style="text-align: center">You can find me here, Let's Connect❤️</p></h3>
+<h2><p align="center">You can find me here, Let's Connect❤️</p></h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/zeyad-nasef-aa0a49201/"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
