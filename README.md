@@ -10,14 +10,14 @@
     <a href="mailto:zeyadnasef85@gmail.com"><img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://www.facebook.com/zeiad.nasef/"><img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/></a>
   </p>
-  
+
  <img src = "profile-img.png" align = "right" width = "25%">
  <br><br><br><br>
 🔭 I am a sophomore CS Student, Competitive Programmer, and Software Developer.<br>
 I like parctic programming, algorithms, and problem solving to enhance my software development skills.
 <hr>
 <!-- github stats and trophies -->
-## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
+ <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
 
 
 <p align="center">
