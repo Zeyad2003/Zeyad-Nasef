@@ -14,7 +14,7 @@
 
  <img src = "profile-img.png" align = "right" width = "25%">
  <br><br><br><br>
-🔭 I am a sophomore CS Student, Competitive Programmer, and Software Developer.<br>
+🔭 I am a junior CS Student, Competitive Programmer, and Software Developer.<br>
 I like parctic programming, algorithms, and problem solving to enhance my software development skills.
 <hr>
 <!-- github stats and trophies -->
