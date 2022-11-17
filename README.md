@@ -16,23 +16,4 @@
  <br><br><br><br>
 🔭 I am a junior CS Student, Competitive Programmer, and Software Developer.<br>
 I like parctic programming, algorithms, and problem solving to enhance my software development skills.
-<hr>
-<!-- github stats and trophies -->
- <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
 
-
-<p align="center">
-    <a href="https://github.com/Zeyad2003">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad2003&langs_count=5&layout=compact&theme=radical">
-    </a>
-    <br><br>
-    <a href="https://github.com/Zeyad2003">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeyad2003&show_icons=true&theme=radical" />
-    </a>
-    <br><br>
-    <a href="https://github.com/Zeyad2003"><img src="https://github-readme-streak-stats.herokuapp.com?user=Zeyad2003&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
-    <br><br>
-    <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Zeyad2003&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
-    </a>
-</p>
