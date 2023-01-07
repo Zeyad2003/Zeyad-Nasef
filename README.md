@@ -14,6 +14,6 @@
 
  <img src = "profile-img.png" align = "right" width = "25%">
  <br><br><br><br>
-🔭 I am a junior CS Student, Competitive Programmer, and Software Developer seeking to learn through projects and internships<br>
+🔭 I am a junior CS Student, Competitive Programmer, and Software Developer seeking to learn through projects and internships.<br>
 I like parctic programming, algorithms, and problem solving to enhance my software development skills.
 
