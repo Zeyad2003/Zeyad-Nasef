@@ -13,8 +13,7 @@
 
 <br>
 
-<h2 ><pstyle="Times, serif">You can find me here, Let's Connect ❤️</p></h2>
-
+<h2 ><p style="Times, serif">You can find me here, Let's Connect ❤️</p></h2>
 <p align=>
     <a href="https://www.linkedin.com/in/zeyad-nasef-aa0a49201/"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
 <!--     <a href="https://www.youtube.com/channel/UC94a6pdBcAII8N6FOpV390Q"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&logoColor=white"/></a> -->
