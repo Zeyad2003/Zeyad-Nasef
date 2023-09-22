@@ -31,7 +31,7 @@
 
 <h2>My Competitive Programming Profiles</h2>
     <a href="https://codeforces.com/profile/Zeyad_Nasef" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Zeyad_Nasef" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Zeyad_Nasef" height="40" width="40" />
     </a>
     &emsp; 
     <a href="https://leetcode.com/Zeyad_Nasef/" target="blank">
@@ -39,7 +39,7 @@
     </a>
 </h2>
 
-<br><br>
+<br>
 
 <h2>Languages and Tools:</h2>
 <p> 
