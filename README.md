@@ -39,7 +39,7 @@
     </a>
 </h2>
 
-<br>
+<br><br>
 
 <h2>Languages and Tools:</h2>
 <p> 
