@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 
-- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](https://bit.ly/ZeyadResume).
+- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](https://bit.ly/zeyadCV).
 
 <br>
 
